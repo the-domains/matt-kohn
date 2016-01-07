@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Matt Kohn]]></title>
         <description><![CDATA[Matt Kohn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matt-kohn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 14:42:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 20:56:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matt-kohn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<article><h1>Hello World</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68db9054-086f-4b00-bc21-f629382fed56.jpg"></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <description><![CDATA[<article><h1>Hello World</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42efc2c6342e99b6cda919d59b0ce3f8ae2e2d4b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/matt-kohn/hello-world/index.html</link>
             <guid isPermaLink="false">873b4722-41c9-41af-b057-bbcc54eb629d</guid>
-            <pubDate>Thu, 07 Jan 2016 14:42:04 GMT</pubDate>
+            <pubDate>Thu, 07 Jan 2016 20:56:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
